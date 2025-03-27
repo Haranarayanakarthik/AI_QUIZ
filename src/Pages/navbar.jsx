@@ -21,7 +21,8 @@ const pages = [
 ];
 
 const settings = [
-  { name: "Profile", path: "/profile" },
+  {name:"Sign In", path: "/signin" },
+  // { name: "Profile", path: "/profile" },
   { name: "Your Quizzes", path: "/quizzes" },
   { name: "Dashboard", path: "/dashboard" },
   { name: "Logout", path: "/logout" },
